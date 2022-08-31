@@ -47,5 +47,5 @@ Package の実処理には Unity が使われる。よってVPMが追加で行�
 - より柔軟なバージョンの表記による依存性解決
 - unitypackage形式からの移行の際に削除するファイルの扱い
 
-（参考 https://vcc.docs.vrchat.com/vpm/packages/#vpm-manifest-additions
+（参考 [VPM Manifest Additions](https://vcc.docs.vrchat.com/vpm/packages/#vpm-manifest-additions)
 こう書くと簡単そうなんだけど開発には何か月もかかってる。パッケージ管理は実に沼なんだなぁ。）
