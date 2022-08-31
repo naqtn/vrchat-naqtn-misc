@@ -1,13 +1,15 @@
-# VCC architecture
+# The Architecture of VCC
 
-- VCC の実装に興味がある人向けにアーキテクチャを概説します。
+- VCC (The VRChat Creator Companion) の実装に興味がある人向けにアーキテクチャを概説します。
 - これは VCC 1.0 リリース時点(2022/8/31)での情報を naqtn が独自に調べた内容です
 
-## png
-[vcc-map-overview-detailed-en.png](vcc-map-overview-detailed-en.png)
+## 構成図
 
-## svg
-[vcc-map-overview-detailed-en.svg](vcc-map-overview-detailed-en.svg)
+### png
+![vcc-map-overview-detailed-en.png](vcc-map-overview-detailed-en.png)
+
+### svg
+![vcc-map-overview-detailed-en.svg](vcc-map-overview-detailed-en.svg)
 
 
 ## 1. プログラム構成
